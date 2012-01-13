@@ -5,5 +5,5 @@ A script for installing Windows (TTF) fonts in LaTeX
 
 References: http://www.radamir.com/tex/
 
-Usage: ./WinFontsLaTeX <font-name>
-eg., ./WinFontsLaTeX arial
+Usage: ./WinFontsLaTeX.sh <font-name>
+eg., ./WinFontsLaTeX.sh arial

@@ -2,7 +2,7 @@
 
 if [ $# -ne 1 ]
 then
-	echo "Error. Correct usage: ./WinFontsLaTeX <font-name>"
+	echo "Error. Correct usage: ./WinFontsLaTeX.sh <font-name>"
 	exit 1
 fi
 
