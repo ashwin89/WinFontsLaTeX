@@ -1,5 +1,11 @@
 #!/bin/sh
 
+if [ $# -ne 1 ]
+then
+	echo "Error. Correct usage: ./WinFontsLaTeX <font-name>"
+	exit 1
+fi
+
 mkdir -p ttf
 cp ttf/* ./
 
