@@ -1,0 +1,3 @@
+./WinFontsLaTeX <font-name>
+
+eg., ./WinFontsLaTeX arial
